@@ -1,0 +1,48 @@
+# ===== Unity generated (regenerated automatically; do not commit) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.vs/
+
+# ===== IDE / generated project files =====
+.vsconfig
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.booproj
+*.pidb
+*.suo
+*.tmp
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Build artifacts / submission zip (do not commit) =====
+*.zip
+/cyg0125794_黒木蒼天/
+
+# ===== Dev tooling (not part of the game) =====
+.claude/
+.mcp.json
+
+# ===== Editor screenshots (dev artifacts) =====
+/Assets/Screenshots/
+/Assets/Screenshots.meta
+
+# ===== Personal notes — DO NOT PUBLISH =====
+面接デモ台本.md
+面接準備_開発成果まとめ.md

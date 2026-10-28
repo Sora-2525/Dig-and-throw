@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "player",
+            "id": "0bfccd67-0056-4286-b44f-8d41da1fdafe",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "1b444445-d955-4ee5-b824-f2375fee99c3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
