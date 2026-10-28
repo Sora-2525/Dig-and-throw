@@ -7,13 +7,15 @@
 - **ジャンル**：ダンジョン探索アクション
 - **開発**：Unity 6（6000.3.6f1）/ C#（個人制作）
 
+> ▶ **遊べるWindowsビルドは [Releases](../../releases) からダウンロードできます**（`cyg0125794_Kuroki_Sora.zip` を展開して `hori.exe` を起動）。
+
 ---
 
 ## 遊び方
 
 ビルド版
 
-1. [Releases](../../releases) から `cyg0125794_黒木蒼天.zip` をダウンロード
+1. [Releases](../../releases) から `cyg0125794_Kuroki_Sora.zip` をダウンロード
 2. 展開して `hori.exe` を起動
 3. タイトル画面で何かキーを押すとスタート
 
